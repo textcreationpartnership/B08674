@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A caveat to the three kingdoms:, or, A summary account of the most miserable and deplorable estate and condition of England in the reign of king John, occasioned by his bringing in infinite multitudes of foreign forces : together with the base treachery of Lewis, the French King's son, and his great men, intended against the barons, who invited him in to their assistance : very well worthy to be seriously considered by all true English-men at this time of day / translated out of Matthew Paris.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08674</idno>
+            <idno type="STC">Wing C1616</idno>
+            <idno type="STC">ESTC R171128</idno>
+            <idno type="EEBO-CITATION">64551051</idno>
+            <idno type="OCLC">ocm 64551051</idno>
+            <idno type="VID">184434</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08674)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184434)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A caveat to the three kingdoms:, or, A summary account of the most miserable and deplorable estate and condition of England in the reign of king John, occasioned by his bringing in infinite multitudes of foreign forces : together with the base treachery of Lewis, the French King's son, and his great men, intended against the barons, who invited him in to their assistance : very well worthy to be seriously considered by all true English-men at this time of day / translated out of Matthew Paris.</title>
+                  <author>Paris, Matthew, 1200-1259.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Whitlock, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  John, 1199-1216.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184434:1" rendition="simple:additions"/>
+            <p>A CAVEAT TO THE Three Kingdoms: OR, A <hi>Summary Account</hi> OF THE Moſt Miſerable and Deplorable Eſtate and Condition of <hi>England</hi> in the Reign of King <hi>John,</hi> occaſioned by his bringing in infinite Multitudes of Foreign Forces: TOGETHER With the Baſe Treachery of <hi>Lewis,</hi> the French King's Son, and his Great Men, intended againſt the Barons, who invited him in to their Aſſiſtance: Very well worthy to be ſeriouſly conſidered by all True Engliſh-Men at this time of Day.</p>
+            <p>Tranſlated out of <hi>MATTHEW PARIS,</hi> One of our moſt Authentick Hiſtorians, who lived at that Time.</p>
+            <p>
+               <hi>LONDON<g ref="char:punc">▪</g>
+               </hi> Printed for <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Whitlock</hi> near <hi>Stationers-Hall,</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184434:2"/>
+            <pb n="3" facs="tcp:184434:2"/>
+            <head>A CAVEAT TO THE Three Kingdoms.</head>
+            <p>
+               <hi>JOHN</hi> King of <hi>England,</hi>
+               <note place="margin">
+                  <hi>Matt. Paris,</hi> Fol. 268. Line 32.</note> repenting of his granting of <hi>Mag<g ref="char:EOLhyphen"/>na Charta</hi> in the 17th year of his Reign, after three Months ſtay breaking forth from the Iſle of <hi>Wight,</hi> ſailed up to <hi>Do<g ref="char:EOLhyphen"/>ver,</hi> whither his Meſſengers, whom he had ſent into Parts beyond the Sea, reſorting to him, they brought with them out of divers Countries a multitude of Soldiers and Armed Men, which ſtruck all ſuch as beheld them with <hi>Fear</hi> and <hi>Horror:</hi> For there came from the Parts of <hi>Poictou</hi> and <hi>Gaſcony</hi> Noble Perſons and Warriors: <hi>Savaric</hi> of <hi>Malcon, Geofrey</hi> and <hi>Oliver</hi> of <hi>Buteville,</hi> Bro<g ref="char:EOLhyphen"/>thers, accompanied with very Great Forces of Soldiers and Armed Perſons, who promiſed faithful Obedience to the King. There came likewiſe from the Countries of <hi>Louvain</hi> and <hi>Brabant</hi> very courageous Men, <hi>Walter Buck, Gerard, Sotin,</hi> and <hi>Godeſchal,</hi> with Three Le<g ref="char:EOLhyphen"/>gions of Armed Men and Slingers, ſuch as thirſted after nothing more than Humane Blood. Beſides there repaired to the ſaid King out of <hi>Flanders,</hi> and other Foreign Countries, all ſuch who were greedy of other Men's Goods, Debtors, Exiled and Excommuni<g ref="char:EOLhyphen"/>cated Perſons, Murtherers, all ſuch to whom their Country was a Baniſhment, not a Refuge; ſuch as theſe adhering to him, gave this deſperate King very great hopes of making Reſiſtance [againſt the Barons.]</p>
+            <p>There likewiſe came <hi>Hugh de Boves,</hi> a ſtout Soldier,<note place="margin">
+                  <hi>Ibidem,</hi> 268, 269.</note> but proud and wicked, to the Port of <hi>Calice</hi> in <hi>Flanders,</hi> with an Innumerable multitude of Armed Perſons to the Aſſiſtance of the King of <hi>England,</hi> where having taken Shipping with all his Company, he earneſtly deſired to ſail for <hi>Dover;</hi> but a ſudden Tempeſt ariſing, before they
+<pb n="4" facs="tcp:184434:3"/>
+could reach their deſired Haven, they ſuffered Shipwrack, and were all drowned in the Sea; inſomuch that as not one of 40000 Men eſcaped alive. This great number of Men all came with their Wives and Children for <hi>England,</hi> for this purpoſe, that the Natives being expelled this Kingdom, and utterly exterminated, they them<g ref="char:EOLhyphen"/>ſelves might poſſeſs this Land by a perpetual Right. For the be<g ref="char:EOLhyphen"/>fore-mentioned cruel King, to the Leader of them, yea, this cruel Ty<g ref="char:EOLhyphen"/>rant, had given (as it is reported) by his Charter to the aforeſaid <hi>Hugh de Boves,</hi> that Seducer, that Fugitive, the Counties of <hi>Nor<g ref="char:EOLhyphen"/>folk</hi> and <hi>Suffolk.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Matt. Paris<g ref="char:punc">▪</g>
+                  </hi> 274, l. 20.</note>The King contrived how he might confound his Enemies, name<g ref="char:EOLhyphen"/>ly, the Barons of <hi>England,</hi> and how he might provide Stipends for thoſe foreign Nations which ſerved under him; at length the King got together two Armies, that with one of them he might ſuppreſs the Eruptions of ſuch Barons as were reſident at <hi>London,</hi> and that with the other he might deſtroy the Northern Provinces of <hi>England</hi> with Fire and Sword, by laying waſte whatſoever ſhould come in his way. Theſe things were tranſacted at St. <hi>Albans</hi> the 13th. of the <hi>Calends</hi> of <hi>January.</hi> The Army which he left behind him was commanded by Warlike Men, as <hi>W.</hi> Earl of <hi>Salisbury, Falcaſius</hi> the King's Brother, who had no Bowels of Compaſſion, <hi>Savaric de Mal<g ref="char:EOLhyphen"/>con</hi> a Warrior, and bloudy-minded, with his <hi>Pictavians, William Brievere,</hi> an expert Warrior, with his whole Power, <hi>Walter Buck,</hi> a Villain, and Blood-thirſty Man, with his moſt impious and ignoble <hi>Flemings</hi> and <hi>Brabantines,</hi> noted for all kind of Wickedneſs: There were alſo others with them whom, to avoid Prolixity, I for a time omit to mention.</p>
+            <p>
+               <note place="margin">
+                  <hi>Ibidem.</hi> King <hi>John</hi> lays waſte the Northern parts of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </note>King <hi>John</hi> being now <hi>of a King become a Tyrant,</hi> from a Man tranſ<g ref="char:EOLhyphen"/>forming himſelf into Brutiſh Cruelty, went from St. <hi>Albans,</hi> taking with him towards the North <hi>William</hi> Earl of <hi>Albemarle, Philip</hi> of <hi>Albin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, John Marſhal;</hi> and of Foreigners, <hi>Gerard</hi> of <hi>Sotin, Godeſchall,</hi> with the <hi>Flemings</hi> and Slingers, and other deſperate People, who neither feared God nor Man: Who, when for that Night he had reſted a little at <hi>Dunſtable,</hi> riſing before Day, he took his way to<g ref="char:EOLhyphen"/>wards <hi>Northampton,</hi> waſting all the Houſes, and burning the Seats of the Barons with his divided Forces, in an Hoſtile manner, he plun<g ref="char:EOLhyphen"/>dered, taking Spoils and Cattel; and thus deſtroying all things, he made a miſerable Spectacle to all ſuch as beheld it. And to heighten this Deſolation and Malice of his, the King commanded his Incen<g ref="char:EOLhyphen"/>diaries to burn the Fences and Villages, by caſting Fire into them all along as they went, that he might take pleaſure in the ſight of the Loſſes of his Enemies <hi>(if they may be called Enemies, who endeavoured to bring him to a ſenſe of Clemency and Juſtice)</hi> and by Rapine enrich thoſe moſt outrageous Inſtruments of Iniquity whom He had under Him. All Perſons of whatſoever Condition, Age, or Rank they
+<pb n="5" facs="tcp:184434:3"/>
+were, were taken, whoſoever were found without the Church or Church-yard, and being tormented after ſeveral ways, were com<g ref="char:EOLhyphen"/>pelled to pay a moſt heavy Ranſome, according that of the Poet —
+<q xml:lang="lat">
+                  <l>Quicquid delirant Reges plectuntur Achivi.</l>
+               </q>
+               <q>
+                  <l>Kings ſcruple not what Outrage they commit;</l>
+                  <l>But 'tis their Subjects who muſt pay for it.</l>
+               </q>
+            </p>
+            <p>Such as were in any of the Fortreſſes of the Barons, when they had Intelligence of the King's Approach, leaving the Caſtles deſti<g ref="char:EOLhyphen"/>tute, and conſulting their own Safety, fled to ſecret Places, quit<g ref="char:EOLhyphen"/>ting their Proviſions with great Spoils and variety of Furniture as a Prey to their Enemies: But the King placing his own People in the disfurniſhed Caſtles, as has been above related, with his moſt wicked Followers haſtened to <hi>Nottingham.</hi>
+            </p>
+            <p>In the mean time, <hi>William</hi> Earl of <hi>Salisbury</hi> and <hi>Falcaſius,</hi>
+               <note place="margin">The Southern Parts of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> depopula<g ref="char:EOLhyphen"/>ted.</note> with their Soldiers, whom the King had diſmiſs'd at St. <hi>Albans,</hi> appointed the Garriſons of <hi>VVindſor, Hartford,</hi> and <hi>Berkhamſted,</hi> with a ſtrong armed Body, to have a watchful Eye upon ſuch as paſſed to and from the City of <hi>London,</hi> and to take care to cut off the Barons from Proviſions: Which being done, they marching through the Counties of <hi>Eſſex, Hartford, Cambridge,</hi> and <hi>Huntingdon,</hi> were in<g ref="char:EOLhyphen"/>tent upon plundering and ravaging, like <hi>Holofernes,</hi>
+               <note place="margin">Fol. 275.</note> Commander of the <hi>Aſſyrian</hi> Army, made the Villages Tributary, took the Men Captives, burn'd the Houſes of the Barons, deſtroyed their Parks and Warrens, cut down their Orchards; and at laſt, even in the Suburbs of <hi>London,</hi> they ſet Fire, and carried away an ineſtimable Booty. And when Meſſengers from divers Places recounted theſe things to the Barons, they looking upon each other, ſaid. <hi>The Lord hath given; The Lord hath taken away:</hi> Theſe things muſt be born with Courage. And when amongſt other Abominable Outrages com<g ref="char:EOLhyphen"/>mitted by the King, and his moſt wicked Accomplices, they heard likewiſe that their Wives and Daughters were expoſed to ſcorn, they ſighing ſaid, <hi>Theſe Things doth the Pope's moſt beloved Son in Chriſt, who protects his Vaſſal in ſubduing ſo Free and Noble a Kingdom after this unheard of manner.</hi>
+            </p>
+            <p>The King having divided his wicked Forces entring into the Nor<g ref="char:EOLhyphen"/>thern Parts, by ſetting Fire to the Seats of the Barons,<note place="margin">Tyranny.</note> driving away Preys of Cattel, making Spoils, waſting all things with the Sword, contemning God, nor regarding the Poor, deſtroyed whatſoever came in his way: For theſe Soldiers of Satan, Miniſters of the De<g ref="char:EOLhyphen"/>vil, and they alſo who were gathered together from the more remote Parts for this purpoſe, like Locuſts, covered the Face of the Land. It was a ſufficient Cauſe of Death for the poor Inhabitants, if they
+<pb n="6" facs="tcp:184434:4"/>
+were but thought to have ſomething; and they which had nothing, were conſtrained to confeſs they had ſomething; and he who had it not, was grievouſly tormented as if he had, to enforce him to pay the ſame. Theſe Murderers ran up and down, blooded with human Slaughter, Night-wanderers, Incendiaries, Sons of <hi>Belial,</hi> with their drawn Swords, that they might extirpate, from Man to Beaſt, all things neceſſary for humane Uſes; and, with their drawn Knives, throughly ſearched Towns, Houſes, Church-yards, Churches, de<g ref="char:EOLhyphen"/>ſpoiled all People,<note place="margin">Fol 276.</note> inſomuch as they ſpared neither Women, nor Children, nor ſuch as were Aged. And what they could not con<g ref="char:EOLhyphen"/>ſume themſelves, they ſet on Fire, or otherwiſe rendred it unfit for Man's Uſe. And ſuch as were altogether unblameable, <hi>calling them the King's Enemies:</hi> Whereſoever they were found, they were haſti<g ref="char:EOLhyphen"/>ly caſt into Priſon, fetter'd, and at laſt forced to pay a moſt grievous Ranſome. The Prieſts alſo ſtanding at the very Altars, carrying the Sign of the Holy Croſs in their hands, or handling the very Body of our Lord, venerable in their holy Veſtments, they thus ſtanding at the Altars, who ought to be reſpected for the ſake of Religion were taken, tormented, deſpoiled, wounded: Nor was there any, Biſhop, Prieſt, or Levite, who might pour fourth Wine or Oil into theſe Wounds ſo inflicted upon them. Soldiers alſo, and other Perſons of what Condition ſoever, they tormented in like manner, hanging up ſome by the Reins and Privy-Members, others by the Feet and Legs, ſome by the Hands, and Thumbs, and Arms; they did ſpit in the Eyes of theſe miſerable Sufferers Salt mix'd with Vinegar, not at all underſtanding that they were created after the Image of God, and ſigned with the Character of Chriſt. Others they forced either wholly to expire, or ſcarcely to be able to draw their breath, put<g ref="char:EOLhyphen"/>ting them in Veſſels, and upon Gridirons over hot burning Coals, and then dipping their roaſted Bodies in Water covered with Ice,<note place="margin">Aſſata Corpo<g ref="char:EOLhyphen"/>ra.</note> that they might as it were with Helliſh Torments paſs from too much Heat into the extremity of Cold; and whilſt they miſerably cried out in the mid'ſt of Torment, and horribly groaned for the ex<g ref="char:EOLhyphen"/>ceſſive Anguiſh of their Puniſhments, no body pitied them; nor did their Tormentors ceaſe from exacting Money, which theſe ſuffering Perſons had not, neither was any Credit given to them who were thus afflicted. Some, who had nothing, promiſed great things, that ſo at leaſt for ſome very ſhort time they might deſerr the Cruelties which had been thus experienced. This was a general Perſecution in <hi>England,</hi> whilſt Fathers by their Children, Brothers by their Bre<g ref="char:EOLhyphen"/>thren, Citizens by their Fellow-Citizens were ſold to be tormented.</p>
+            <p>
+               <note place="margin">Matt. Paris, <hi>Fol. 278.</hi> An<g ref="char:EOLhyphen"/>no <hi>18</hi> Regis Johannis.</note>About this time, when at length the <hi>Barons</hi> (who had now loſt all which was moſt deſirable in this World, and were utterly deſtitute of hope of better Fortune how of themſelves they might recover their Loſſes,) were inwardly touched with grief of Heart, and what to
+<pb n="7" facs="tcp:184434:4"/>
+do they knew not: Curſing the <hi>Subtilty, Backſlidings, and Infidelity of the King;</hi> and ſaying with repeated Sighs, <hi>Woe be to you,</hi> John, <hi>thou laſt of Kings, the Abomination of Engliſh Princes, the Confuſion of the Eng<g ref="char:EOLhyphen"/>liſh Nobility! Oh,</hi> England, <hi>who art already laid waſte, and must yet ſtill farther be waſted! Oh,</hi> England, England! <hi>who in the Eyes of all good Men haſt hitherto been the chief of Provinces, art now made Tributary; not only made ſubject, and reduced to Fire, Famine, and the Sword, but muſt be governed by mean Slaves and Foreigners: Since nothing can be more unfortunate than to be ſubjected to the Slavery of ſuch Vaſſals.</hi>
+            </p>
+            <p>
+               <hi>We have read of many Kings and inferior Princes, who have fought even until Death for the Deliverance of their Countreys under their Obedience; but thou,</hi> John, <hi>(of unhappy Memory to future Ages) that this your Land, which from all Antiquity hath been free, might be enſlaved, haſt beſtowed thy Thoughts and Pains to draw others with thee into Bondage, not unlike the ſliding of a Serpent, haſt first withdrawn thy ſelf from this Firma<g ref="char:EOLhyphen"/>ment; being become of a moſt free King, a Tributary, a Farmer, and a Vaſſal of Slavery: Thou hath link'd this moſt Noble La<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to perpetual Bondage, never to be free'd from theſe ſervile Fetters, unleſs He, who had Compaſſion over us and all the World, when anciently they were enſla<g ref="char:EOLhyphen"/>ved under the yoke of Sin, taking pity, ſhall at ſome time or other conde<g ref="char:EOLhyphen"/>ſcend to deliver us. And what ſhall we ſay of thee, O Pope? Who being the Father of Holineſs, the Pattern of Piety, the Tutor of Juſtice, and the Guardian of Truth, oughteſt to ſhine for an Example to the whole World; Art thou conſenting to ſuch an One? Doſt thou praiſe and defend ſuch an One? But it is for this reaſon that Thou defendeſt this Exhauſter of Engliſh Money, and the Impoſer upon the Britiſh Nobility, who inclines himſelf to thy ſide, that all things may be ſwallowed up in the Gulph of Roman Avarice.</hi> At length it was decreed, that they would elect ſome powerful Perſon to be their King, by whoſe means they might be reſtored to their ancient Poſſeſſions, believing that none could reign more cruelly than <hi>John,</hi> and framing this ſorry Argument.</p>
+            <q xml:lang="lat">
+               <l>— Fortuna miſerrima tuta</l>
+               <l>Nam Timor Eventûs deterioris abeſt.</l>
+            </q>
+            <q>
+               <l>When Fortune has her utmoſt Malice ſpent,</l>
+               <l>We cannot then dread any worſe Event.</l>
+            </q>
+            <p>And when for ſome time they had heſitated <hi>whom to Elect,</hi> they at laſt agreed in this, that they would ſet over them <hi>Lewis</hi> the Son of <hi>Philip</hi> the French King, and advance him to be King: And their Reaſon was becauſe that if by the means of <hi>Lewis,</hi> and his Father, the foreign multitude, with which King <hi>John</hi> was ſurrounded, being the greateſt part of them their Subjects, ſhould deſert him, when he ſhould likewiſe be deprived and deſtitute of his own Forces at home, he himſelf would remain in a manner alone without Power; and, making a Virtue of Neceſſity, would hearken to more whole<g ref="char:EOLhyphen"/>ſome Counſels. And afterwards this Reſolution being pleaſing to
+<pb n="8" facs="tcp:184434:5"/>
+them all, they ſent by ſolemn Meſſengers, namely, the Lord <hi>S.</hi> Earl of <hi>Wincheſter,</hi> and <hi>Robert Fitzwater,</hi> to King <hi>Philip</hi> and <hi>Lewis</hi> his Son, Letters Sealed with the Seals of all the Barons, earneſtly beſeeching the Father, that he would ſend his Son into <hi>England</hi> that he might reign, and the Son that he would come forth to be Crowned.</p>
+            <p>
+               <hi>Lewis</hi> having accepted of their Invitation, comes over for <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> and being joined by the Barons at <hi>London,</hi> who making War upon King <hi>John</hi> and his Party, in which <hi>Lewis</hi> and the Barons pre<g ref="char:EOLhyphen"/>vailed.</p>
+            <p>
+               <note place="margin">
+                  <hi>Matt. Paris,</hi> Fol. 287. <hi>An<g ref="char:EOLhyphen"/>no</hi> 1216.</note>Not long after which, it fell out that the Viſcount of <hi>Molun,</hi> a Nobleman of the Kingdom of <hi>France,</hi> who came over into <hi>England</hi> with <hi>Lewis,</hi> was dangerouſly ſick in the City of <hi>London;</hi> who, per<g ref="char:EOLhyphen"/>ceiving that his Death was near at hand, deſired to diſcourſe with ſuch of the Barons of <hi>England,</hi> as were remaining in the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> for the Safeguard thereof; and he confeſſed in the hearing of them all, telling them, <hi>I am grieved at your Deſolation and Subverſion, becauſe ye are ignorant how many Dangers hang over ye: For</hi> Lewis <hi>hath ſworn, and ſixteen more Earls and Barons of the Kingdom</hi> of France <hi>with him, that if it ſhall be his Fortune to ſubdue</hi> England, <hi>and to be Crowned King, he would condemn to perpetual Exile all thoſe who now ſerve in the VVar under himſelf, and thoſe who are the Followers of King</hi> John, <hi>as Betrayers of their Maſter, and would extirpate all their Race out of the Land. And that you may not doubt of this, I my ſelf, who now lie in continual expectation of Death, do, as I hope my Soul ſhall be ſaved, affirm unto ye, that I was one of thoſe who with</hi> Lewis <hi>have ſworn it. VVherefore I now earneſtly adviſe ye, that for the future ye provide for your Safety; and that theſe things, which now I have related unto ye, be kept ſecret.</hi> And having thus ſaid, this Nobleman forthwith expired. And when theſe Words were ſpread among the Barons, they were ve<g ref="char:EOLhyphen"/>ry much grieved to find themſelves thus every way diſtreſſed. For <hi>Lewis</hi> had given their Lands and Caſtles, which he had in divers places ſubdued, to French-men, which they murmured at; and that which troubled them the more was, that he gave out as if they were Trai<g ref="char:EOLhyphen"/>tors; and it farther encreaſed their Sorrow to find that they were every Day excommunicated, and deprived of all Earthly Honour, whereby they fell into the greateſt Affliction both of Body and Mind. Many of them therefore had Thoughts of returning to be obedient to King <hi>John;</hi> but they were much afraid, whether he, whom they had ſo much provoked to hate them by their Revilings, would re<g ref="char:EOLhyphen"/>ceive them upon their Repentance.</p>
+            <p>But by the timely Death of King <hi>John,</hi> which ſhortly after hap<g ref="char:EOLhyphen"/>pen'd, and the ſetting up his Son to be King, to whom the Barons reſorted, the villainous Deſign of <hi>Lewis,</hi> and his Adherents, became abortive, as the <hi>Hiſtorian</hi> tells us.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
